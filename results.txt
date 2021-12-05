@@ -1,0 +1,23 @@
+results ofsra1::0/2
+results oflokesj::2/2
+results ofkod::2/2
+results ofpi::3/3
+results ofmanikanta::2/3
+results ofmanikanta::0/3
+results ofjaggu::1/3
+results oflokesh reddy::1/3
+results ofjagadeesh1::0/3
+results ofjaga2::0/3
+results oframesh::2/3
+results ofsurendra::0/0
+results ofpreetam::0/0
+results ofpreetam::0/0
+results ofsurendra::9/10
+results ofjagadeeshhh::8/10
+results ofjaga::10/10
+results ofjaga::7/10
+results ofshowrya::1/2
+results offr::4/10
+results oflokesh reddy::0/10
+results ofy lokesh::6/10
+results ofexam::6/10
